@@ -2,6 +2,7 @@
   "name": "web-3d",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://koraus.github.io/web-3d/",
   "type": "module",
   "scripts": {
     "dev": "vite",
